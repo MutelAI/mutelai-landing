@@ -14,9 +14,9 @@
     "category_he": "ניהול אתרים בבינה מלאכותית",
     "category_en": "AI Website Management",
     "maps_url": "",
-    "thumbnail": "/mutelai-logo-Photoroom.png",
+    "thumbnail": "https://mutelai.com/mutelai-logo-Photoroom.png",
     "logo_emoji": "🤖",
-    "logo_url": "/mutelai-logo.webp",
+    "logo_url": "https://mutelai.com/mutelai-logo.webp",
     "geo": { "latitude": 0, "longitude": 0 },
     "schema_type": "SoftwareApplication",
     "price_range": "$"

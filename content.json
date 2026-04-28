@@ -1,0 +1,298 @@
+{
+  "business": {
+    "name": "MutelAI",
+    "name_en": "MutelAI",
+    "site_lang": "en",
+    "phone": "",
+    "phone_display": "",
+    "whatsapp": "",
+    "website": "https://mutelai.com",
+    "rating": 5,
+    "reviews_count": 0,
+    "address_he": "",
+    "address_en": "",
+    "category_he": "ניהול אתרים בבינה מלאכותית",
+    "category_en": "AI Website Management",
+    "maps_url": "",
+    "thumbnail": "/mutelai-logo-Photoroom.png",
+    "logo_emoji": "🤖",
+    "logo_url": "/mutelai-logo.webp",
+    "geo": { "latitude": 0, "longitude": 0 },
+    "schema_type": "SoftwareApplication",
+    "price_range": "$"
+  },
+
+  "hours": [],
+  "reviews": [],
+  "photos": [],
+
+  "sections": [
+    { "id": "nav",      "variant": "I", "visible": true },
+    { "id": "hero",     "variant": "O", "visible": true },
+    { "id": "stats",    "variant": "A", "visible": true },
+    { "id": "demo",     "variant": "A", "visible": true },
+    { "id": "steps",    "variant": "A", "visible": true },
+    { "id": "services", "variant": "N", "visible": true },
+    { "id": "pricing",  "variant": "F", "visible": true },
+    { "id": "faq",      "variant": "F", "visible": true },
+    { "id": "contact",  "variant": "N", "visible": true }
+  ],
+
+  "stats": [
+    { "value": "60s",   "label": "Average Update Time" },
+    { "value": "15+",   "label": "Languages Supported" },
+    { "value": "99.9%", "label": "Uptime Guaranteed" },
+    { "value": "0",     "label": "Lines of Code Needed" }
+  ],
+
+  "steps": [
+    {
+      "id": "step-1",
+      "icon": "Camera",
+      "number": "01",
+      "title_he": "צלם ושלח",
+      "title_en": "Snap & Send",
+      "description_he": "צלם תמונה מהעבודה שלך, הקלט הערת קול, או פשוט הקלד הודעה. שלח אותה לבוט MutelAI שלך דרך וואטסאפ או מייל - בדיוק כמו לשלוח הודעה לחבר.",
+      "description_en": "Take a photo of your work, record a voice note, or type a message. Send it to your MutelAI bot via WhatsApp or email - just like texting a friend."
+    },
+    {
+      "id": "step-2",
+      "icon": "Cpu",
+      "number": "02",
+      "title_he": "ה-AI עושה את העבודה הקשה",
+      "title_en": "AI Does the Heavy Lifting",
+      "description_he": "המערכת שלנו מנתחת את התוכן, כותבת קופי שיווקי מקצועי, מייעלת תמונות ומחליטה בדיוק היכן למקם את זה באתר שלך.",
+      "description_en": "Our AI analyzes your content, writes professional marketing copy, optimizes images, and determines exactly where to place it on your site."
+    },
+    {
+      "id": "step-3",
+      "icon": "Rocket",
+      "number": "03",
+      "title_he": "האתר שלך עולה לאוויר",
+      "title_en": "Your Site is Live",
+      "description_he": "תוך שניות האתר שלך מתעדכן בתוכן טרי ומותאם SEO. הלקוחות שלך רואים את העבודה האחרונה שלך - אוטומטית לחלוטין.",
+      "description_en": "Within seconds, your website is updated with fresh, SEO-optimized content. Your customers see your latest work - automatically."
+    }
+  ],
+
+  "services": [
+    {
+      "id": "feature-1",
+      "icon": "MessageCircle",
+      "title_he": "ניהול וואטסאפ ואימייל 24/7",
+      "title_en": "24/7 WhatsApp & Email Management",
+      "desc_he": "צלם, שלח דרך וואטסאפ או מייל - והתוכן עולה לאוויר. ה-AI כותב את הקופי, מייעל את המדיה שלך ומעדכן את הלקוחות שלך ללא כל מאמץ ידני.",
+      "desc_en": "Snap, send via WhatsApp or email, and it's live. The AI writes the copy, optimizes your media, and updates your customers with zero manual effort."
+    },
+    {
+      "id": "feature-2",
+      "icon": "Brain",
+      "title_he": "אינטליגנציה GEO ו-AI",
+      "title_en": "GEO & AI Intelligence",
+      "desc_he": "המערכת שלנו מנתחת כל תמונה וטקסט, מבינה את ההקשר של העבודה ומציבה אותם בדיוק במקום הנכון באתר. התוכן מתורגם אוטומטית למספר שפות בו-זמנית.",
+      "desc_en": "Our system analyzes every photo and text, understands the context of the job, and places it perfectly on your site. Content is automatically translated into multiple languages simultaneously."
+    },
+    {
+      "id": "feature-3",
+      "icon": "Search",
+      "title_he": "SEO חכם מובנה",
+      "title_en": "Built-in Smart SEO",
+      "desc_he": "הטכנולוגיה שלנו מבטיחה שגוגל ימצא אותך בדיוק כשלקוחות מחפשים את השירותים שלך באזור. אנחנו בונים תשתית מהירה כברק; ה-AI בונה את המוניטין שלך.",
+      "desc_en": "Our technology ensures Google finds you exactly when customers search for your services locally. We build lightning-fast infrastructure; the AI builds your reputation."
+    },
+    {
+      "id": "feature-4",
+      "icon": "Shield",
+      "title_he": "100% בעלות. אפס מלכודות.",
+      "title_en": "100% Ownership. Zero Traps.",
+      "desc_he": "ללא שכירויות חודשיות מחניקות. אתה משלם על ההקמה, והאתר שלך לנצח. ללא עמלות נסתרות, ללא אותיות קטנות.",
+      "desc_en": "No suffocating monthly rentals. You pay for the setup, and the website is yours forever. No hidden fees, no fine print."
+    }
+  ],
+
+  "pricing": [
+    {
+      "id": "tier-setup",
+      "name_he": "הקמת נכס דיגיטלי",
+      "name_en": "Digital Asset Setup",
+      "price_he": "$120",
+      "price_en": "$120",
+      "billing_he": "חד-פעמי",
+      "billing_en": "One-Time",
+      "desc_he": "כל מה שצריך כדי להשיק. אנחנו בונים, אתה הבעלים.",
+      "desc_en": "Everything you need to launch. We build it, you own it.",
+      "features_he": [
+        "אתר סטטי פרמיום עם ביצועים גבוהים",
+        "דומיין מותאם אישית כלול",
+        "תשתית SEO ו-GEO מתקדמת",
+        "גישה ל-CMS לניהול עצמי",
+        "אחסון בענן לשנה ראשונה",
+        "בונוס: חודש ראשון של Premium AI מתנה"
+      ],
+      "features_en": [
+        "Premium high-performance static site",
+        "Custom domain included",
+        "Advanced SEO & GEO infrastructure",
+        "Self-service CMS access",
+        "Cloud hosting for Year 1",
+        "Bonus: 1st Month of Premium AI"
+      ],
+      "highlighted": true,
+      "cta_he": "התחל עכשיו",
+      "cta_en": "Get Started"
+    },
+    {
+      "id": "tier-premium",
+      "name_he": "מנהל AI פרמיום",
+      "name_en": "Premium AI Manager",
+      "price_he": "$12",
+      "price_en": "$12",
+      "billing_he": "/חודש (אופציונלי)",
+      "billing_en": "/month (Optional)",
+      "desc_he": "הטייס האוטומטי לצמיחת העסק שלך.",
+      "desc_en": "The autopilot for your business growth.",
+      "features_he": [
+        "עדכוני וואטסאפ ואימייל 24/7",
+        "ניתוח GEO וכתיבת קופי AI",
+        "תרגום אוטומטי לריבוי שפות",
+        "דוחות תנועה וביצועים חודשיים",
+        "עדכוני אבטחה ומערכת שוטפים"
+      ],
+      "features_en": [
+        "24/7 WhatsApp & email updates",
+        "GEO analysis & AI copywriting",
+        "Automated multi-language translation",
+        "Monthly traffic & performance reports",
+        "Continuous security & system updates"
+      ],
+      "highlighted": false,
+      "cta_he": "הוסף AI פרמיום",
+      "cta_en": "Add Premium AI"
+    },
+    {
+      "id": "tier-core",
+      "name_he": "תחזוקה בסיסית",
+      "name_en": "Core Maintenance",
+      "price_he": "$5",
+      "price_en": "$5",
+      "billing_he": "/חודש (מתחיל משנה 2)",
+      "billing_en": "/month (Starting Year 2)",
+      "desc_he": "הדרך הפסיבית לשמור על האתר שלך פעיל.",
+      "desc_en": "The passive route to keep your site live.",
+      "features_he": [
+        "שמירת הדומיין פעיל",
+        "אחסון ענן מאובטח",
+        "שמירת תשתית SEO",
+        "ללא עדכוני AI פעילים"
+      ],
+      "features_en": [
+        "Active domain retention",
+        "Secure cloud hosting",
+        "Preserved SEO infrastructure",
+        "Without active AI updates"
+      ],
+      "highlighted": false,
+      "cta_he": "למידע נוסף",
+      "cta_en": "Learn More"
+    }
+  ],
+
+  "faq": [
+    {
+      "id": "faq-1",
+      "question_he": "האם אני באמת הבעלים של האתר?",
+      "question_en": "Do I actually own the website?",
+      "answer_he": "בהחלט. דמי ההקמה הראשוניים רוכשים את הנכס הדיגיטלי. גם אם תבחר לא להשתמש בשירות Premium AI בעתיד, האתר נשאר 100% שלך. אנחנו מאמינים בבעלות, לא בהשכרה.",
+      "answer_en": "Absolutely. Your initial setup fee purchases the digital asset. Even if you choose not to use the Premium AI service in the future, the website remains 100% yours. We believe in ownership, not rentals."
+    },
+    {
+      "id": "faq-2",
+      "question_he": "אני לא אדם טכנולוגי. האם אצליח להשתמש בזה?",
+      "question_en": "I'm not a tech person. Will I be able to use this?",
+      "answer_he": "הפילוסופיה שלנו פשוטה: אם אתה יודע לשלוח תמונה בוואטסאפ, אתה יודע להפעיל את האתר הזה. ה-AI מטפל בכל הפורמט המורכב, כתיבת הקופי והקידוד מאחורי הקלעים. אתה רק שולח הודעה.",
+      "answer_en": "Our philosophy is simple: If you know how to send a picture on WhatsApp, you know how to run this website. The AI handles all the complex formatting, copywriting, and coding behind the scenes. You just send a message."
+    },
+    {
+      "id": "faq-3",
+      "question_he": "מה אם אני צריך את האתר שלי במספר שפות?",
+      "question_en": "What if I need my website in multiple languages?",
+      "answer_he": "שירות ה-Premium AI שלנו כולל תמיכה רב-לשונית מובנית. אתה שולח עדכון בשפת האם שלך דרך וואטסאפ או מייל, והמערכת מתרגמת ומפרסמת אותו מיידית בכל השפות שבחרת - כרגע תומך ב-15+ שפות.",
+      "answer_en": "Our Premium AI service includes native multilingual support. You send the update in your native language via WhatsApp or email, and the system instantly translates and publishes it across all your selected languages - currently supporting 15+ languages."
+    },
+    {
+      "id": "faq-4",
+      "question_he": "כמה מהיר יהיה האתר שלי?",
+      "question_en": "How fast will my website be?",
+      "answer_he": "מהיר מאוד. אנחנו בונים אתרים סטטיים המפורסים ב-edge שמקבלים ציון 95+ ב-Google PageSpeed. זמני טעינה מהירים פירושם דירוג SEO טוב יותר וכך לקוחות רבים יותר יוכלו למצוא אותך ברשת.",
+      "answer_en": "Extremely fast. We build static, edge-deployed sites that score 95+ on Google PageSpeed. Fast loading times mean better SEO rankings and more customers finding you online."
+    },
+    {
+      "id": "faq-5",
+      "question_he": "מה קורה אחרי שנה ראשונה?",
+      "question_en": "What happens after Year 1?",
+      "answer_he": "לאחר השנה הראשונה, תוכל לבחור להמשיך עם מנהל ה-AI פרמיום שלנו ($12/חודש) לטייס אוטומטי מלא, או לעבור לתחזוקה בסיסית ($5/חודש) כדי לשמור את הדומיין וההאחסון פעילים. בכל מקרה, תוכן האתר שלך נשאר שלך.",
+      "answer_en": "After the first year, you can choose to continue with our Premium AI Manager ($12/mo) for full autopilot, or switch to Core Maintenance ($5/mo) to keep your domain and hosting active. Either way, your website content remains yours."
+    }
+  ],
+
+  "translations": {
+    "nav_link_1":           { "he": "תכונות",        "en": "Features" },
+    "nav_link_2":           { "he": "איך זה עובד",   "en": "How It Works" },
+    "nav_link_3":           { "he": "מחירים",        "en": "Pricing" },
+    "nav_link_4":           { "he": "שאלות נפוצות",  "en": "FAQ" },
+    "nav_cta":              { "he": "התחל עכשיו",    "en": "Get Started" },
+
+    "hero_line1":           { "he": "רק שלח הודעה.", "en": "Just text it." },
+    "hero_line2":           { "he": "אנחנו עושים.",  "en": "We do it." },
+    "hero_description":     { "he": "האתר שעובד בשבילך, בזמן שאתה עובד בשטח. השק נכס דיגיטלי מקצועי המנוהל לחלוטין על ידי AI שמתעדכן ישירות מהוואטסאפ או המייל שלך. ללא מחשב נייד, ללא סיסמאות - רק שלח הודעה, והאתר שלך עולה לאוויר.", "en": "The website that works for you, while you work in the field. Launch a professional, fully AI-managed digital asset that updates directly from your WhatsApp or email. No laptop, no passwords - just send a message, and your site is live." },
+    "hero_cta":             { "he": "הקם את האתר שלך היום", "en": "Launch My Website Today" },
+    "hero_cta_note":        { "he": "החודש הראשון של Premium AI - מתנה מאיתנו!", "en": "First month of Premium AI is on us!" },
+    "hero_cta_href":        { "he": "#pricing", "en": "#pricing" },
+
+    "demo_headline_part1":  { "he": "אם אתה יכול לשלוח",       "en": "If you can send a" },
+    "demo_highlight":       { "he": "הודעה",                    "en": "message" },
+    "demo_headline_part2":  { "he": ",",                        "en": "," },
+    "demo_headline_part3":  { "he": "אתה יכול לנהל את האתר שלך.", "en": "you can manage your website." },
+    "demo_description":     { "he": "סיימת פרויקט? צלם תמונה ושלח דרך וואטסאפ או מייל. ה-AI מנתח, כותב קופי שיווקי מקצועי ומעדכן את האתר שלך תוך שניות.", "en": "Finished a project? Snap a photo and send it via WhatsApp or email. The AI analyzes it, writes professional marketing copy, and updates your site in seconds." },
+    "demo_bot_name":        { "he": "בוט MutelAI",        "en": "MutelAI Bot" },
+    "demo_bot_status":      { "he": "מחובר",               "en": "Online" },
+    "demo_img_caption":     { "he": "שיפוץ_מטבח.jpg",     "en": "kitchen_reno.jpg" },
+    "demo_user_message":    { "he": "סיימתי את שיפוץ המטבח הזה! 🔧", "en": "Just finished this kitchen renovation! 🔧" },
+    "demo_bot_reply":       { "he": "✨ מעולה! פרויקט חדש נוסף עם קופי שנכתב על ידי AI. האתר שלך עודכן!", "en": "✨ Got it! New project added with AI-written copy. Your site is updated!" },
+    "demo_url":             { "he": "yourname.mutelai.com", "en": "yourname.mutelai.com" },
+    "demo_website_new_item":{ "he": "🌟 חדש: שיפוץ מטבח",  "en": "🌟 New: Kitchen Renovation" },
+
+    "steps_eyebrow":        { "he": "פשוט כמו 1‑2‑3",  "en": "Simple as 1‑2‑3" },
+    "steps_title":          { "he": "איך זה עובד",      "en": "How It Works" },
+
+    "features_eyebrow":        { "he": "בנוי אחרת",    "en": "Built Different" },
+    "features_title_prefix":   { "he": "למה ",          "en": "Why " },
+    "features_title_brand":    { "he": "MutelAI",       "en": "MutelAI" },
+    "features_title_suffix":   { "he": "?",             "en": "?" },
+
+    "pricing_eyebrow":         { "he": "מחירים",                                   "en": "Pricing" },
+    "pricing_title":           { "he": "שקיפות מלאה. ללא אותיות קטנות.",         "en": "Total Transparency. No Fine Print." },
+    "pricing_subtitle":        { "he": "תשלום הקמה אחד. האתר שלך לנצח.",         "en": "One simple setup fee. You own your website forever." },
+    "pricing_popular_badge":   { "he": "הכי פופולרי",                             "en": "Most Popular" },
+
+    "faq_eyebrow":             { "he": "שאלות נפוצות",       "en": "FAQ" },
+    "faq_title":               { "he": "שאלות ותשובות",      "en": "Questions & Answers" },
+
+    "footer_headline_1":       { "he": "רק שלח הודעה.",  "en": "Just text it." },
+    "footer_headline_2":       { "he": "אנחנו עושים.",   "en": "We do it." },
+    "footer_description":      { "he": "הלקוח הבא שלך מחפש אותך עכשיו. בוא נוודא שהוא ימצא אותך.", "en": "Your next customer is searching for you right now. Let's make sure they find you." },
+    "footer_cta_whatsapp":     { "he": "שלח לנו וואטסאפ", "en": "WhatsApp Us" },
+    "footer_cta_email":        { "he": "שלח לנו מייל",    "en": "Email Us" },
+    "contact_email":           { "he": "hello@mutelai.com", "en": "hello@mutelai.com" }
+  },
+
+  "design": {
+    "hero_layout": "split",
+    "card_style": "dark",
+    "button_style": "gold",
+    "hero_pattern": "grid",
+    "gallery_style": "grid",
+    "section_style": "dark",
+    "animation_style": "smooth"
+  }
+}

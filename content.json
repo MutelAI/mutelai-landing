@@ -17,6 +17,7 @@
     "thumbnail": "https://mutelai.com/mutelai-logo-Photoroom.png",
     "logo_emoji": "🤖",
     "logo_url": "https://mutelai.com/mutelai-logo.webp",
+    "favicon_url": "https://mutelai.com/mutelai-logo.webp",
     "geo": { "latitude": 0, "longitude": 0 },
     "schema_type": "SoftwareApplication",
     "price_range": "$"

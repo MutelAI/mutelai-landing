@@ -259,8 +259,8 @@
     "demo_img_caption":     { "he": "שיפוץ_מטבח.jpg",     "en": "kitchen_reno.jpg" },
     "demo_user_message":    { "he": "סיימתי את שיפוץ המטבח הזה! 🔧", "en": "Just finished this kitchen renovation! 🔧" },
     "demo_bot_reply":       { "he": "✨ מעולה! פרויקט חדש נוסף עם קופי שנכתב על ידי AI. האתר שלך עודכן!", "en": "✨ Got it! New project added with AI-written copy. Your site is updated!" },
-    "demo_url":             { "he": "yourname.mutelai.com", "en": "yourname.mutelai.com" },
-    "demo_website_new_item":{ "he": "🌟 חדש: שיפוץ מטבח",  "en": "🌟 New: Kitchen Renovation" },
+    "demo_url":             { "he": "yourbusiness.com", "en": "yourbusiness.com" },
+    "demo_website_new_item":{ "he": "🌟 חדש: שיפוץ מטבח",  "en": "New Project ✨" },
 
     "steps_eyebrow":        { "he": "פשוט כמו 1‑2‑3",  "en": "Simple as 1‑2‑3" },
     "steps_title":          { "he": "איך זה עובד",      "en": "How It Works" },
@@ -276,7 +276,7 @@
     "pricing_popular_badge":   { "he": "הכי פופולרי",                             "en": "Most Popular" },
 
     "faq_eyebrow":             { "he": "שאלות נפוצות",       "en": "FAQ" },
-    "faq_title":               { "he": "שאלות ותשובות",      "en": "Questions & Answers" },
+    "faq_title":               { "he": "יש לך שאלות?",      "en": "Got Questions?" },
 
     "footer_headline_1":       { "he": "רק שלח הודעה.",  "en": "Just text it." },
     "footer_headline_2":       { "he": "אנחנו עושים.",   "en": "We do it." },
@@ -293,6 +293,7 @@
     "hero_pattern": "grid",
     "gallery_style": "grid",
     "section_style": "dark",
-    "animation_style": "smooth"
+    "animation_style": "smooth",
+    "page_theme": "dark"
   }
 }
